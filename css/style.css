@@ -1,11 +1,4 @@
-/*===========================================================
-
-   Template Name: Simone - Personal Portfolio Template
-   Author: Harnish Design
-   Template URL: http://demo.harnishdesign.net/html/simone
-   Author URL: https://themeforest.net/user/harnishdesign
-   File Description : Main css file of the template
-	
+/*
 =================================================
   Table of Contents
 =================================================
@@ -3028,6 +3021,11 @@ html[dir="rtl"] #footer .nav .nav-item:last-child .nav-link {
 .social-icons li:hover.social-icons-instagram a,
 .social-icons.social-icons-colored li.social-icons-instagram a {
   color: #e1306c;
+}
+
+.social-icons li:hover.social-icons-email a,
+.social-icons.social-icons-colored li.social-icons-email a {
+  color: #fff;
 }
 
 html:not([dir="rtl"]) .social-icons li:first-child {
